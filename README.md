@@ -1,4 +1,4 @@
-# Show the user list from the api using axios library.
+# Show the user list from the API using Axios library.
 1. Install the below axios package to make the api call
     > npm i axios
 2. Following open API is being used to fetch the user list.
